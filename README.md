@@ -1,0 +1,2 @@
+# TransferString
+在Windows平台中用于字符集转换的函数
